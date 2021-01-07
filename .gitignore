@@ -1,0 +1,4 @@
+/.idea
+/vendor
+/src/RNG.correct.php
+.phpunit.result.cache
