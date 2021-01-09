@@ -2,12 +2,7 @@
 
 final class RNG
 {
-    public function generateFloats(string $serverSeed, string $clientSeed, int $nonce = 0, int $count = 1): array
-    {
-        return [];
-    }
-
-    private function byteGenerator()
+    public function generateFloats(string $serverSeed, string $clientSeed, int $nonce = 0, int $count = 1)
     {
         //
     }
